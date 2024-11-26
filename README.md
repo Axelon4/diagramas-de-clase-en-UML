@@ -4,3 +4,7 @@ Este proyecto consiste en la construcción de un diagrama de clases UML detallad
 licencia
 Licencia gratuita académica v3.0
 	AFL-3.0
+
+
+![Diagrama de clases](C:\Users\axelj\OneDrive\Escritorio\Tarea2UML\Diagrama.png)
+
